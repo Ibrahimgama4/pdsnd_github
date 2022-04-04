@@ -9,7 +9,7 @@ Include the date you created this project and README file.
 Udacity final project on version control
 
 ### Description
-Describe what your project is about and what it does
+It's all about git and version control
 
 ### Files used
 Include the files used
