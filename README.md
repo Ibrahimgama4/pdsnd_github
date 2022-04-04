@@ -3,7 +3,6 @@
 ### Date created
 Include the date you created this project and README file.
  
-04/04/2022
 
 ### Project Title
 Udacity final project on version control
