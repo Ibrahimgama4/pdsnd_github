@@ -13,10 +13,10 @@ It's all about git and version control
 ### Files used
 Include the files used
 
-bikehare.py
-chicago.csv
-new_york_city.csv
-washington.csv
+ 1.bikehare.py
+ 2.chicago.csv
+ 3.new_york_city.csv
+ 4.washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
